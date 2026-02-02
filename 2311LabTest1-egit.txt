@@ -1,1 +1,3 @@
 LINE ON ECLIPSE
+
+Add line using EGit.
